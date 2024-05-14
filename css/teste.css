@@ -1,0 +1,19 @@
+body{
+	background-color: lightcoral;
+}
+h1{
+	font-size: 30px;
+	color: blue;
+}
+h2{
+	color: green;
+}
+.grande{
+	font-size: 60px;
+}
+.caixaalta{
+	text-transform: uppercase;
+}
+.grande.caixaalta{
+	color: navy;
+}
